@@ -6,6 +6,9 @@ namespace IntroGithub
     {
         static void Main(string[] args)
         {
+
+            // Primera Modificacion por Luis Arbizú
+
             int a = 0, b = 0;
 
             Console.WriteLine("Enter a value for a: ");
@@ -14,12 +17,12 @@ namespace IntroGithub
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} + {b} equals {AddNumbers(a,b)} ");
+            Console.WriteLine($"Adding {a} - {b} equals {AddNumbers(a,b)} ");
         }
         static int AddNumbers(int a, int b)
         {
 
-            return a + b;
+            return a - b;
 
         }
     }

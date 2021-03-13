@@ -1,0 +1,16 @@
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\bin\MCD\Debug\net5.0\IntroGithub.exe
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\bin\MCD\Debug\net5.0\IntroGithub.deps.json
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\bin\MCD\Debug\net5.0\IntroGithub.runtimeconfig.json
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\bin\MCD\Debug\net5.0\IntroGithub.runtimeconfig.dev.json
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\bin\MCD\Debug\net5.0\IntroGithub.dll
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\bin\MCD\Debug\net5.0\ref\IntroGithub.dll
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\bin\MCD\Debug\net5.0\IntroGithub.pdb
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\obj\MCD\Debug\net5.0\IntroGithub.csprojAssemblyReference.cache
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\obj\MCD\Debug\net5.0\IntroGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\obj\MCD\Debug\net5.0\IntroGithub.AssemblyInfoInputs.cache
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\obj\MCD\Debug\net5.0\IntroGithub.AssemblyInfo.cs
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\obj\MCD\Debug\net5.0\IntroGithub.csproj.CoreCompileInputs.cache
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\obj\MCD\Debug\net5.0\IntroGithub.dll
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\obj\MCD\Debug\net5.0\ref\IntroGithub.dll
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\obj\MCD\Debug\net5.0\IntroGithub.pdb
+C:\Users\RBzu\Documents\POO\practica github\IntroGithub\obj\MCD\Debug\net5.0\IntroGithub.genruntimeconfig.cache

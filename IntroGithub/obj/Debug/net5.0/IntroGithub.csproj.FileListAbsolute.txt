@@ -1,0 +1,16 @@
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\bin\Debug\net5.0\IntroGithub.exe
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\bin\Debug\net5.0\IntroGithub.deps.json
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\bin\Debug\net5.0\IntroGithub.runtimeconfig.json
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\bin\Debug\net5.0\IntroGithub.runtimeconfig.dev.json
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\bin\Debug\net5.0\IntroGithub.dll
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\bin\Debug\net5.0\ref\IntroGithub.dll
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\bin\Debug\net5.0\IntroGithub.pdb
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\obj\Debug\net5.0\IntroGithub.csprojAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\obj\Debug\net5.0\IntroGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\obj\Debug\net5.0\IntroGithub.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\obj\Debug\net5.0\IntroGithub.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\obj\Debug\net5.0\IntroGithub.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\obj\Debug\net5.0\IntroGithub.dll
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\obj\Debug\net5.0\ref\IntroGithub.dll
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\obj\Debug\net5.0\IntroGithub.pdb
+C:\Users\kevin\OneDrive\Documentos\Uca\ciclo 01-2021\POO\Repositorios\ComputerBoys_POO012021\IntroGithub\obj\Debug\net5.0\IntroGithub.genruntimeconfig.cache

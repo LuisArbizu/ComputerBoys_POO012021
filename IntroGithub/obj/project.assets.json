@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\RBzu\\.nuget\\packages\\": {}
+    "C:\\Users\\kevin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RBzu\\Documents\\POO\\practica github\\IntroGithub\\IntroGithub.csproj",
+      "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Documentos\\Uca\\ciclo 01-2021\\POO\\Repositorios\\ComputerBoys_POO012021\\IntroGithub\\IntroGithub.csproj",
       "projectName": "IntroGithub",
-      "projectPath": "C:\\Users\\RBzu\\Documents\\POO\\practica github\\IntroGithub\\IntroGithub.csproj",
-      "packagesPath": "C:\\Users\\RBzu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RBzu\\Documents\\POO\\practica github\\IntroGithub\\obj\\",
+      "projectPath": "C:\\Users\\kevin\\OneDrive\\Documentos\\Uca\\ciclo 01-2021\\POO\\Repositorios\\ComputerBoys_POO012021\\IntroGithub\\IntroGithub.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kevin\\OneDrive\\Documentos\\Uca\\ciclo 01-2021\\POO\\Repositorios\\ComputerBoys_POO012021\\IntroGithub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RBzu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
